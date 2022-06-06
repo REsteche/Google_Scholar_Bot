@@ -3,9 +3,6 @@ Hello there!
 This is my first telegram bot in python, and it's capable of managing connection to the official Google Scholar page available and interacting with the user to 
 download the desired papers. If you need it, hope you like it!
 
-ps.: in case you have problems running it fell free to contact me at issues or my personal email: 
-
- > rubenesteche@hotmail.com 
 
 ## Requirements
   
