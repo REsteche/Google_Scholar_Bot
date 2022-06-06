@@ -9,7 +9,7 @@ ps.: in case you have problems running it fell free to contact me at issues or m
 
 ## Requirements
   
-  * `scholar.py` package already included in this repo to avoid bugs due to future branches
+  * `scholar.py` requirement already included in this repo to avoid bugs due to future branches
   * `telegram.ext.py` which can be conda/pip installed from cmd line easily by official site instructions 
     
 ## Badges
