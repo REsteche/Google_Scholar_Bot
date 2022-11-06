@@ -6,8 +6,8 @@ download the desired papers. If you need it, hope you like it!
 
 ## Requirements
   
-  * `scholar.py` requirement already included in this repo to avoid bugs due to future branches
-  * `telegram.ext.py` which can be conda/pip installed from cmd line easily by official site instructions 
+  * `scholar.py` 
+  * `telegram.ext.py`  
     
 ## Badges
 
